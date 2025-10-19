@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Vivek Shete    🎯 **Aspiring Data Analyst | Power BI | SQL | Excel | Python**   
+# 👋 Hi, I'm Vivek Shete    
+- 🎯 **Aspiring Data Analyst | Power BI | SQL | Excel | Python**   
 - 📊 Passionate about transforming raw data into actionable insights and interactive dashboards.   
 - 🧠 Skilled in **Power BI, DAX, Power Query, Excel, SQL, and Python (Matplotlib, Seaborn)**.  
 - 📈 Completed **Business Analytics certification from PwC**, focusing on data-driven decision-making.   
